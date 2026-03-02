@@ -1,7 +1,5 @@
 # Lung-Cancer-Prediction
 
-# Lung-Cancer-Detection
-
 A brief description of your project. Explain clearly what this project does and what problem it solves in 2–3 lines.
 
 ---
